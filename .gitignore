@@ -1,0 +1,18 @@
+# Python
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+.env
+
+# .gitignore
+__pycache__/
+
+# IDE configs
+.idea/
+
+# Local files exclusion
+data/raw/matches/*.json
+data/processed_data/*/*.parquet
